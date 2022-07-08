@@ -1,0 +1,8 @@
+Object-Its instance through which we can access the prop and values
+Everything in realtime is object.
+Ex:Car,Fan,Chair,keyboard
+
+Representation of object
+Syntax:
+
+2-3 exmples
